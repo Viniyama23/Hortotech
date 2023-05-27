@@ -8,7 +8,7 @@ Bem-vindo(a) ao repositório do site da HortoTech!
 - RM:  `550908`- Vinicius Santos Yamashita de Farias
 - RM:  `98460`- Felipe Capriotti da Silva Santos
 - RM:  `99679`- Gustavo Kawamura Christofani
-- RM:  `99874`- Rafael Carvalho mattos
+- RM:  `99874`- Rafael Carvalho mattos 
 
 ## Sobre
 
